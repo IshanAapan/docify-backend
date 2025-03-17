@@ -36,7 +36,7 @@ This is the **backend API** for **Docify**, a doctor appointment system built wi
 ## Installation & Setup  
 
 1️⃣ **Clone the repository:**  
-git clone https://github.com/your-repo/docify-backend.git
+https://github.com/IshanAapan/docify-backend.git
 cd docify-backend
 
 2️⃣ Install dependencies:
