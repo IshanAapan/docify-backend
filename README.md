@@ -51,3 +51,4 @@ JWT_SECRET=your_jwt_secret_key
 4️⃣ Start the backend server:
 npm start
 
+Frontend repo link:- https://github.com/IshanAapan/docify-frontend.git
