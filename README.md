@@ -40,15 +40,15 @@ This is the **backend API** for **Docify**, a doctor appointment system built wi
 - cd docify-backend
 
 2️⃣ Install dependencies:
-npm install
+- npm install
 
 3️⃣ Set up environment variables:
 Create a .env file in the root directory and add:
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret_key
+- PORT=5000
+- MONGO_URI=your_mongodb_connection_string
+- JWT_SECRET=your_jwt_secret_key
 
 4️⃣ Start the backend server:
-npm start
+- npm start
 
 Frontend repo link:- https://github.com/IshanAapan/docify-frontend.git
